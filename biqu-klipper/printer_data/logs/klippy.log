@@ -3539,3 +3539,20 @@ fatal: unable to access 'https://github.com/Aedonpt/biqub1-klipper .git/': The r
 
 Command {update_git_script} finished
 
+Running Command {update_git_script}...:
+cp: cannot stat '/home/biqu/printer_data/config/telegram.conf': No such file or directory
+
+cp: cannot stat '/home/biqu/printer_data/config/adxl.cfg': No such file or directory
+
+cp: cannot stat '/home/biqu/printer_data/config/pa_cal.cfg': No such file or directory
+
+cp: cannot stat '/home/biqu/printer_data/config/GET_PROBE_LIMITS.cfg': No such file or directory
+
+cp: cannot stat '/home/biqu/printer_data/config/saved_variables.cfg': No such file or directory
+
+cp: cannot stat '/home/biqu/printer_data/config/pa_flow_calibrate.cfg': No such file or directory
+
+cp: cannot stat '/home/biqu/printer_data/config/sounds.cfg': No such file or directory
+
+cp: cannot stat '/home/biqu/printer_data/config/macros.cfg': No such file or directory
+
